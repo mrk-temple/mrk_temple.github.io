@@ -1,2 +1,1 @@
-# mrk_temple.github.io
-## about my first blog
+# about my first blog
